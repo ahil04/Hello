@@ -33,7 +33,7 @@ div.inner:hover{
     border-radius: 50%;
 }
 .top{
-    height: 33px;
+    height: 104px;
     width: 33px;
     position: absolute;
     top: 90%;
@@ -44,8 +44,13 @@ div.top:hover{
 .container:hover{
     background-color: yellow;
 }
-.Yash:hover{
+.friend:hover{
     background-color: rgb(223, 9, 187);
-    font-size: 100px;
+    font-size: 108px;
     border-radius: 50%;
+}
+.op:hover{
+    color: gold;
+    border-radius: 50%;
+    background-color: rgb(224, 150, 58);
 }
